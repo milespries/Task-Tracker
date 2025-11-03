@@ -79,7 +79,7 @@ function App() {
   return (
     <div className="app">
       <header>
-        <h1>Task Tracker</h1>
+        <h1>Task Tracker V2</h1>
         <p>Manage your daily tasks efficiently</p>
       </header>
 
